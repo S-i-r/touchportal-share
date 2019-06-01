@@ -16,6 +16,7 @@ I recommend exploring template.psd with the Border layer visible.
 	* Group: Corner - Lower-right corner. If you wish to have a solid-colored corner.
 		* Object: Hollow Corner - Corner piece is "hollow" on the inside
 		* Object: Solid Corner - Corner that is completely solid
+        * Group: Custom Corner - Masked. If you wish for a custom corner style, you can place it within this group to have it masked automatically.
 	* Object: Border - This is the surrounding border of the icon
 	* Group: Button Interior - contains the interior/main area of the button.
 		* Group: Without Corner - Masked. If you _don't_ want your corner area to share your button background, put your desired background in here.
